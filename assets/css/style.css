@@ -5,3 +5,94 @@
 #search-button {
   color: black;
 } */
+
+:root {
+
+  --button-height: 37.6px; 
+
+}
+
+button{
+
+  height: var(--button-height);
+
+}
+
+#search-input{
+
+  height: calc(1.5 * var(--button-height));
+
+  border-radius: 5px;
+
+  text-indent: 10px;
+
+  color: black;
+
+}
+
+.weather-header {
+
+  background: linear-gradient(to right, rgba(10, 83, 115, 0.929), rgba(19, 93, 125, 0.929)); 
+
+}
+
+.form-group, .form-input, #search-button {
+
+  width: 100%;
+
+}
+
+
+#search-button-container button {
+
+  width: 100%;
+
+  margin-top: 15px !important;
+
+} 
+
+.card{
+
+  padding: 10px;
+
+
+}
+
+#today .card{
+
+  border: 2px solid black;
+
+  background-color: lavender;
+
+}
+
+#forecast .card{
+
+  background-color: rgba(3, 53, 75, 0.929);
+
+  color: white;
+
+}
+
+
+.card-img{
+
+  width: 50px;  
+
+  height: 50px; 
+
+  object-fit: cover;
+
+}
+
+#date_0{
+
+  display: inline-flex;
+
+}
+
+.btn-secondary{
+
+  background-color:rgba(3, 53, 75, 0.8) !important;
+
+}
