@@ -11,7 +11,6 @@ A 5 day weather forecast created using open weather api that allows users to sea
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [License](#license)
 - [Links](#links)
 
 
@@ -56,6 +55,6 @@ Link to live demo can be found here:
 
 There is no specific installation required for this application. Simply clone the repository and open the `index.html` file in a web browser.
 
-## GitHub Link
+## Links
 
 https://github.com/shkendi/Weather-App
