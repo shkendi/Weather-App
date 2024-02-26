@@ -16,7 +16,7 @@ A 5 day weather forecast created using open weather api that allows users to sea
 
 ## Demo
 
-Link to live demo can be found here:
+Link to live demo can be found here: https://shkendi.github.io/Weather-App/
 
 ![weather dashboard](assets/images/weather-dashboard.png)
 
